@@ -1,2 +1,2 @@
-# real_estate
-Real Estate Website Project for Claim Academy
+# Claim_Real_Estate
+Claim Group Two's Real Estate Project
